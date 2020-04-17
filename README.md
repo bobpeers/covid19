@@ -1,6 +1,6 @@
 # covid19 Data Sets
 
-## Apple mobility Trends
+## Apple Mobility Trends
 
 Apple Mobility Trends.ipynb
 Juptyter Notebook takes data from Aplle Mobility Trends (https://www.apple.com/covid19/mobility)
