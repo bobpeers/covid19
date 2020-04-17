@@ -1,7 +1,8 @@
-# covid19 Rewlated Data Sets
+# covid19 Data Sets
 
 ## Apple mobility Trends
 
+Apple Mobility Trends.ipynb
 Juptyter Notebook takes data from Aplle Mobility Trends (https://www.apple.com/covid19/mobility)
 
 ## Daily reported cases of Coronavirus from Wikipedia (WHO situation reports)
