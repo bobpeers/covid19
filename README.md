@@ -1,4 +1,9 @@
-# covid19
+# covid19 Rewlated Data Sets
+
+## Apple mobility Trends
+
+Juptyter Notebook takes data from Aplle Mobility Trends (https://www.apple.com/covid19/mobility)
+
 ## Daily reported cases of Coronavirus from Wikipedia (WHO situation reports)
 
 Jupyter Notebook scrapes data from https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_outbreak_data/WHO_situation_reports
